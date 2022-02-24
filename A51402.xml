@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the supream authoritie (under God) of the common-wealth of England, Scotland, and Ireland the commons in Parliament assembled / the true and faithfull testimony of William Morris, a late member of the army in Ireland.</title>
+            <author>Morris, William, member of the army in Ireland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51402</idno>
+            <idno type="STC">Wing M2813</idno>
+            <idno type="STC">ESTC R13520</idno>
+            <idno type="EEBO-CITATION">12426894</idno>
+            <idno type="OCLC">ocm 12426894</idno>
+            <idno type="VID">61902</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51402)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61902)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 945:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the supream authoritie (under God) of the common-wealth of England, Scotland, and Ireland the commons in Parliament assembled / the true and faithfull testimony of William Morris, a late member of the army in Ireland.</title>
+                  <author>Morris, William, member of the army in Ireland.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:61902:1"/>
+            <pb facs="tcp:61902:1"/>
+            <p>TO THE Supream Authoritie <hi>(<g ref="char:V">Ʋ</g>NDER GOD)</hi> OF THE COMMON-WEALTH Of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> THE COMMONS in PARLIAMENT ASSEMBLED.</p>
+            <p>The true and faithfull Teſtimony of <hi>William Morris,</hi> a late Mem<g ref="char:EOLhyphen"/>ber of the Army in <hi>IRELAND.</hi>
+            </p>
+            <p>
+               <hi>When the wicked riſe, men hide themſelves, but when they periſh, the righteous increaſe.</hi>
+            </p>
+            <p>
+               <hi>The fear of the Lord prolongeth dayes, but the years of the wicked ſhall be ſhortened.</hi>
+            </p>
+            <p>
+               <hi>The memory of the juſt is bleſſed, but the name of the wicked ſhall rot</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simmons</hi> at the Bull and Mouth near Alderſgate, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:61902:2"/>
+            <pb n="3" facs="tcp:61902:2"/>
+            <head>To the ſupream authority (under God) of the Common-Wealth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> the Com<g ref="char:EOLhyphen"/>mons aſſemblies in Parliament.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Lord <hi>Almighty,</hi> whoſe Name is <hi>Holy,</hi> whoſe <hi>power</hi> no creature is able to reſiſt, hath heard the <hi>cry</hi> of the afflicted, and the cruelly oppreſ<g ref="char:EOLhyphen"/>ſed <hi>Innocent,</hi> for his names ſake he hath be<g ref="char:EOLhyphen"/>held, and hath not ceaſed <hi>turning</hi> and <hi>over<g ref="char:EOLhyphen"/>turning</hi> perſons and powers, until he hath once more <hi>returned</hi> the deſperate forlorn and ſink<g ref="char:EOLhyphen"/>ing concernments of all the Godly in the Nations, into your boſoms, their toſſed, tumbled, torn and tottering intreſt is once more imported into your harbour.</p>
+            <p>And indeed the revival of your preſtine Authority begins to appear like the reſurrection of the <hi>juſt,</hi> before whom all the contrary is and muſt be judged and condemned; and this is ſeen and felt even by outward obſervation already in <hi>Ire<g ref="char:EOLhyphen"/>land;</hi> O how do the ſcandalous and perſecuting <hi>Magiſtrates,</hi> the greedy <hi>hirelings,</hi> and <hi>blind-guides,</hi> the prophane and blood<g ref="char:EOLhyphen"/>thirſty <hi>people,</hi> even all the curſed bryars, thorns, and bram<g ref="char:EOLhyphen"/>bles of all ſorts, which of late have ſprung up and flouriſhed under the ſhadow of <hi>Henry Cromwell</hi> theſe four years by-paſt in this Nation now begin to droop, to hang the head and wi<g ref="char:EOLhyphen"/>ther, as if their end (which is to be burnt) were near at hand.</p>
+            <p>And now that the <hi>Lord</hi> hath once more put a price into your hands, and given you another precious oppertunity, wherby you may be more ſerviceable then ever to the intereſt of his beloved <hi>Son,</hi> who is come forth <hi>a light</hi> into the World, and after a long and dark night of <hi>Apoſtacie</hi> hath ariſen and is ariſing and coming in thouſands of his <hi>ſaints</hi> (as it is writ<g ref="char:EOLhyphen"/>ten of him) who are gathered, gathering and to be gathered in this the day of his glorious appearance out of the <hi>Aegyptian</hi> bondage of the mercenary <hi>hirelings,</hi> and ſoul-ſtarving <hi>paſtors,</hi>
+               <pb n="4" facs="tcp:61902:3"/>out of all opinions, forms, and practiſes, profeſſing or pro<g ref="char:EOLhyphen"/>phane, <hi>into the glorious liberty of the Sons of God, and into the uni<g ref="char:EOLhyphen"/>ty of the eternal ſpirit, that therein they might have fellowſhip with the Father, and the Son.</hi>
+            </p>
+            <p>Beware that you turn not the edge of your authority againſt his <hi>Royal ſeed,</hi> who ſaith, touch not mine <hi>annointed,</hi> and do my <hi>Prophets</hi> no harm, yea, thoſe that touch them, touch the ap<g ref="char:EOLhyphen"/>ple of his own eye; and Kings hath he rebuked for their ſakes, and brought down the mighty before them, And as in former ages and Generations, ſo in this preſent hath his <hi>mighty arm</hi> been ſtretched out, whereby he hath wrought de<g ref="char:EOLhyphen"/>liverance for his <hi>choſen</hi> and redeemed his <hi>heritage,</hi> and the lof<g ref="char:EOLhyphen"/>tineſſe of man hath he bowed down, who took pleaſure in un<g ref="char:EOLhyphen"/>righteouſneſſe in tranſgreſſing and lying againſt the Lord, and departing from the way of God; faſting for ſtrife and debate, and that they might ſmite with the fiſt of wickedneſſe, con<g ref="char:EOLhyphen"/>ceiving and uttering from the heart words of deceit and falſ<g ref="char:EOLhyphen"/>hood, yet covering all over with pretence of <hi>reformation</hi> and <hi>ſettlement,</hi> until <hi>judgement</hi> was turned away backward, <hi>juſtice</hi> ſtood afar off, <hi>truth</hi> was fallen in the ſtreets, and <hi>equity</hi> could not enter, for the <hi>wicked</hi> were ſet in high places, the <hi>proud</hi> were called happie, the greedy <hi>hirelings</hi> and ſoul devouring <hi>blind guides,</hi> the plundering pariſh Prieſts exalted againſt the Lord and againſt his truth, and upheld in their <hi>falſe Doctrines</hi> and <hi>cruel oppreſſions</hi> b a Law.</p>
+            <p>And he that reproved in the gate was <hi>hated,</hi> and he that ſpake uprightly was <hi>abhorred,</hi> and he that departed from ine<g ref="char:EOLhyphen"/>quity was made a <hi>prey,</hi> and many of the faithful in the Nati<g ref="char:EOLhyphen"/>ons for their Teſtimony againſt the crying <hi>atominations</hi> of the times, and for <hi>tender conſcience ſake</hi> towards God, were thruſt into <hi>priſons,</hi> holes, and corners, and otherwiſe <hi>perſecuted,</hi> and cruelly intreated (and this was the <hi>true ſtate of the-caſe</hi>) until the oppreſſion of the <hi>innocent,</hi> and the cry of <hi>iniquity</hi> was ex<g ref="char:EOLhyphen"/>ceeding great, and the Lord harkened and heard it, and looking down from the habitation of his holineſſe and his glory, he ſaw it, and it greatly diſpleaſed him; and his zeal, and his ſtrength, and the ſounding of his bowels, and his mercies towards them were not reſtrained; and after long waiting, and often <hi>warning</hi> (and things growing worſe and
+<pb n="5" facs="tcp:61902:3"/>worſe) at laſt his wrath break forth and there was no remedy, and his purpoſe he eſtabliſhed, and his decree was ſealed; that al<g ref="char:EOLhyphen"/>though that Ruler had been as the Signet upon his right hand, yet would he pluck him off, and rend the goverment from him and from his houſe (as formerly he did the government of his people from <hi>Saul</hi> when he departed from him) and ſo by his own right Arm made way for you by overturning him, that neither Argu<g ref="char:EOLhyphen"/>ment nor Arts nor Arms could overcome.</p>
+            <p>And now ſeeing it is not by your might, nor by your power, but by the wonder-working hand of God alone you are reſtored; Be you warned from the <hi>Lord God Almighty,</hi> that you take heed of drinking in the <hi>murderous, Cain</hi>-like ſpirit of the greedy and <hi>mercenary hirelings,</hi> who teach for <hi>hire</hi> and Divine for ſums of mo<g ref="char:EOLhyphen"/>ny, tythes and other cuſtomes (eſtabliſhed by the <hi>Pope</hi>) whoſe God is their <hi>belly,</hi> whoſe glory is their ſhame, who mind earthly things, whoſe ſacrifice the Lord <hi>abhorreth,</hi> and it is an abomination to him.</p>
+            <p>I ſay take heed of drinking in that ſpirit, for it is the wine of fornication which they will be preſenting to you in a golden cup of glorious and ſhining pretences to external holineſs, for<g ref="char:EOLhyphen"/>mality, and lip Religion; but it is the cup of the Whores <hi>ebomination,</hi> wherewith the Princes and Rulers of the earth, earth have been made drunk in all ages to this very day, by that perſecuting generation, who have made themſelves even drunk with the blood, and rich ſpoil of Saints.</p>
+            <p>And <hi>as ever you expect the preſence of the Lord with you, or his bleſſing upon your Government,</hi> beware that ye neither do nor cauſe nor conſent to any act of crueltie againſt any ſort of people in the Nations who have hungering and breathing deſires after the cleareſt and moſt manifeſt enjoyments of Jeſus Chriſt, and who are come to ſee the deceit of the <hi>hirelings</hi> and blind guides, and for <hi>tender conſcience</hi> ſake cannot pay towards their maintain<g ref="char:EOLhyphen"/>ance; And eſpecially the Lords moſt tenderly affected and be<g ref="char:EOLhyphen"/>loved <hi>friends,</hi> the ſeed of faithful <hi>Abraham</hi> according to the ſpi<g ref="char:EOLhyphen"/>rit, who greatly fear and tremble at his powerful word, and are by the ſcorners of this generation called <hi>Quakers;</hi> but know you this aſſuredly, that amongſt thoſe people, your greateſt and moſt powerful intereſt truly ſtands, and upon your well or evil deal<g ref="char:EOLhyphen"/>ing with them, your welfare, or your ruine doth undoubtedly de<g ref="char:EOLhyphen"/>pend: for the Tabernacle of the Lord of hoſts is with them, the
+<pb n="6" facs="tcp:61902:4"/>Kingdom of his Son is exalted in them, his power and glory is manifeſted to them, the ſhout of a mighty King is among them, and all their enemies ſhall fall before them.</p>
+            <p>Wherefore beware you undertake not to defend the hirelings in their opinions imaginations, or practices, touching the worſhip of God, by your authority, from the examinations, and tryals of o<g ref="char:EOLhyphen"/>thers who are or may be moved of the Lord to try their ſpirits and Doctrins, for the true worſhipers of the true God did never appeal to any Humane Authority to defend them in their worſhip from the words of gain-ſayers, nor never will; but were alwayes ready by <hi>ſound Doctrines</hi> (not by priſons, ſtocking and whip<g ref="char:EOLhyphen"/>ping) to exhort, convince and ſilence ſuch as did oppoſe them<g ref="char:EOLhyphen"/>ſelves.</p>
+            <p>And herein the late <hi>Tyranical and conſcience-oppreſſing</hi> Rulers have much exceeded the crueltie of the <hi>Jewes;</hi> for although the Miniſters of Chriſt (whoſe manner it was to go into the Syna<g ref="char:EOLhyphen"/>gogues on the Sabbath dayes, and reaſon from the Scriptures, per<g ref="char:EOLhyphen"/>ſwading the things concerning the Kingdom of God (as his Miniſters do in theſe days) were ſometimes haled out and beaten, and brought before Rulers, who in their wills put them in pri<g ref="char:EOLhyphen"/>ſon, ſometimes a day or two or three, and then let them depart; yet we never read that chief Authority or Rulers either of the <hi>Jewes</hi> or <hi>Romans</hi> did ever ſo much aggravate their ſin or harden themſelves againſt the Lord and againſt his truth, as to make a Law to defend their teachers from the words of Chriſts Diſciples, either within or without the Synagogues; but this Apoſtatizing and unbelieving generation have by a <hi>cruelly exe<g ref="char:EOLhyphen"/>cuted Law,</hi> upon pain of long impriſonment, fines and grievous puniſhments of the body, attempted to defend their publique hirelings and ſoul devouring teachers, from the words of Chriſts Miniſters, who are ſent of him to try their ſpirits and manifeſt their deceit; and that neither in their publike places, nor in their going or returning to nor from them, the hireling muſt be ſpoken to.</p>
+            <p>O high preſumption againſt the Lord! as if they intended to to limit and circumſcribe the ſpirit and power of the holy One within the bounds of their Arbitrary dictates! as if their Lawes could prevent the wind from blowing, or their commands with hold the day from breaking, or their decrees obſcure the Son from
+<pb n="7" facs="tcp:61902:4"/>ſhining, or their power withſtand the flowing of the <hi>Ocean,</hi> and not be overwhelmed in the vain attempt.</p>
+            <p>Beware alſo that you compell not any by your Lawes to pay their tythes or other conſiderations towards the maintenance of the common hirelings, who do deny them and their Doctrines; but if any ſort of people in the Nations will voluntarily make choice ſuch to be their leaders, it is but juſt, upon grounds of common equitie, that, thoſe who follow blind guides at their own peril, ſhould alſo maintain them at their own charges.</p>
+            <p>And ſo break ye the bonds of the late oppreſſing taskmaſters; and ſet at liberty thoſe who for ſeveral years, by-paſt have ſuffered cruel bondage beſides the ſpoiling of their goods: and have not loved their lives unto the death, but given up all for conſcience ſake rather then betray their teſtimony, and deny the ſecond Prieſthood, <hi>Christ Jeſus the everlaſting high-Priest,</hi> (who was not made by the Law of a carnal commandment, but by the power of an endleſs life:) by whoſe coming the firſt Prieſthood that took Tythes was changed, and the Law that gave Tythe (as well as that which required ſacrifice of burnt-offerings) aboliſhed as <hi>Heb.</hi> 7. nor can they give any part of the creatures whereof the Lord hath made them Stewards, towards the maintaining and upholding ſuch a Miniſter, which Chriſt hath never ſent.</p>
+            <p>And think it not ſufficient that the Saints have liberty to diſ<g ref="char:EOLhyphen"/>cent from and deny the falſe and will worſhip of the common hirelings, and yet muſt be compelled by Law to give them main<g ref="char:EOLhyphen"/>tennance, or ſuffer ſpoiling; for it were as high iniquitie in the ſight of God, to cauſe the Saints to ſuffer becauſe they cannot give their goods as ſacrifice to the Idol, as to cauſe them ſuffer becauſe they cannot bow and worſhip: and it were no loſſe cruelty to binde them to the one, then to the other.</p>
+            <p>And therefore as ever you would be found Innocent before the Lord, and have the work of God to proſper in your hands, or you be proſperous in your undertakings, <hi>forbear impoſing tythes upon any people in the Nations againſt their conſciences or any other Taxes upon his faithful ones towards the maintenance of the hired teachers?</hi>
+            </p>
+            <p>For this I have received of the Lord, and it is my faithful Testimony to you in the eternal word of truth that ſhall ſtand for ever,
+<list>
+                  <item>1. <hi>That no true Miniſters of the true Chriſt did ever yet take tythes for Preaching, nor never will.</hi>
+                  </item>
+                  <pb n="8" facs="tcp:61902:5"/>
+                  <item>2. <hi>That no true Miniſters of the true Chriſt did ever yet demand or crave a ſettled maintenance from the chief Authority of any Nation for Preaching, nor never will.</hi>
+                  </item>
+                  <item>3. <hi>That no true Miniſters of the true Chriſt did over yet accept of (muchleſs compell) a ſetled maintenance for Preaching, from ſuch as did deny them and their Doctrine, nor never will.</hi>
+                  </item>
+                  <item>4. <hi>That no true Miniſters of the true Chriſt did ever yet petition the authority of any Nation to be defended in their doctrines or practices concerning the worſhip of God by a Humane Law from the gain ſay<g ref="char:EOLhyphen"/>ings of others, nor never will.</hi>
+                  </item>
+                  <item>5. <hi>That no true Miniſters of the true Chriſt did ever cauſe men or women to be perſecuted, impriſoned, stocked and ſhamefully entreated, for ſpeaking to them in their meetings, or asking them queſtions, nor never will.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>And therefore if any ſort of people whatſoever they are called, (whether <hi>Presbyterians, Independants, Baptiſts,</hi> or <hi>Quakers</hi>) do come unto you and tell you they are Miniſters of Chriſt, and demand of you a ſetled maintenance for <hi>Goſpel Preaching;</hi> I do affirm from the Lord, they are to be denyed as falſe witneſſes, and no true Miniſters of the true Chriſt.</p>
+            <p>For thoſe who are truely ſent of him, they neither come to the powers of the earth for maintenance nor a probation; but do ap<g ref="char:EOLhyphen"/>prove themſelves to that of God in every conſcience, and the Goſpel doth maintain them.</p>
+            <p>They covet no mans gold nor ſilver nor raiment, but freely as they have received of the Lord they freely give, &amp; unto ſuch Chriſt faith, He that receiveth you receiveth me, and he that diſpiſeth you, diſpiſeth me, and he that deſpiſeth me, diſpiſeth him that ſent me; And when they come to a City or a Town, enquire who is worthy and there abide and eat ſuch things as are ſet before them, for the work-man is worthy of his meat; and if any do deny them and their doctrine, ſhake off their feet as a witneſs againſt them; Chriſt further tels them, he ſends them forth as Lambs amongſt wolves; and that they ſhall be brought before Rulers, and perſecuted from City to City, and delivered into priſons, and betrayed by brethren and kinsfolk, and friends, and hated of all men for his names ſakes and theſe are true Characters of ſuch as are true Miniſters of the true Chriſt.</p>
+            <pb n="9" facs="tcp:61902:5"/>
+            <p>But ſuch as run and were never ſent of him, go forth like <hi>Wolves among Lambs,</hi> tearing, ſpolling, and devouring ſuch as do not readily put into their mouthes; and ſuch were the falſe Prophets of old, againſt whom the true Prophets bore their Teſtimony, ſuch were they that conſpired in the midſt of <hi>Iſrael,</hi> like a <hi>Roaring Lyon</hi> ravening the prey and devouring ſouls,<note place="margin">Ezek. 25, 26</note> taking the treaſure and the pretious things, &amp; prophaning the holy things of the Lord, putting no difference between the holy and pro<g ref="char:EOLhyphen"/>phane nor between the unclean and the clean; ſuch were they that eat the fat, and cloathed themſelves with the wool, &amp; killed them that were fed, but fed not the flock; Such were they that did teach for <hi>hire</hi> and divine for <hi>money:</hi> Such were they that the Lord by his prophets calls <hi>Greedy dogs,</hi> that can never have enough,<note place="margin">Micha 11. Iſa. 56.</note> which all look to their own waies, every one for his gain, from his quarter.</p>
+            <p>And doth not the Nations abound with ſuch at this day, which run and are not ſent of <hi>Christ? O what Legions of theſe devouring Locuſts have ſpread themſelves upon the earth!</hi> and what ſwarmes of them hath the <hi>East winds</hi> brought into this poor waſted coun<g ref="char:EOLhyphen"/>trie of <hi>Ireland?</hi> as if all the <hi>Cages</hi> of unclean and hatefull birds in the Nations had been ſet open, or <hi>Lucifer</hi> with his Regiments of unclean ſpirits intended to ſet up his kingdome in the midſt of us. And theſe having obtained approbation and commiſſion from the powers of the earth, and <hi>Tythes</hi> eſtabliſhed by a humane Law, and <hi>treble dammage</hi> the penalty of ſuch as do (for con<g ref="char:EOLhyphen"/>ſcience ſake or otherwiſe) refuſe to pay; Then forth they go like <hi>evening wolves,</hi> (the greedieſt of all doggs, ravening after their prey; And then their firſt enquirie is, not where's the beſt people but) where's the beſt benefice? Where's the parriſh that will yeeld moſt profie? Where's the quarter that wil yeeld moſt gain? &amp;c. And when he hath found out the beſt he can, then that ſhall ſatisfie, becauſe he can get no better; and when he comes to the place, his next enquirie is (not as the Miniſters of <hi>Chriſt,</hi> (who is worthy, or who is godly, but rather) who is wicked who is the moſt malicious ſpiteful man amongſt his neighbours, or the moſt cunning knave in all the pariſh, that he may make him his Proctor (for no honeſt man will meddle with ſuch an employ<g ref="char:EOLhyphen"/>ment) and ſuch an one muſt be employed to make a ſtrict enquiry into mens eſtates, what quantity of corne they have, what <hi>wheat,
+<pb n="10" facs="tcp:61902:6"/>Barly, Oates, Peaſe, Beanes</hi> they have, what <hi>Parſneps, Carrets Onyons, Leeks, Pottatoes,</hi> they have, what <hi>cowes, Calves and Sheep, and Lambes,</hi> &amp; how many <hi>Piggs, and Ducks, and Geeſe, and Henns,</hi> they have, leaſt a tythe <hi>Chickin</hi> ſhould eſcape his greedy Chops. Are theſe miniſters of <hi>Chriſt?</hi> And if any of the ſervants of <hi>Christ</hi> happen to be within his quarter, who for conſcience ſake cannot put into his rave<g ref="char:EOLhyphen"/>nous mouth, then theres a <hi>prize</hi> for him; and if they have con<g ref="char:EOLhyphen"/>ſiderable outward eſtates, (thats the fiſh he angles for) they are the people he looks for; Then never was curſed Cavileer more eager to plunder a <hi>Round-heads</hi> houſe in time of warr, then this greedy hireling is to plunder theſe <hi>Quakers</hi> (as he calls them) And then another or two he muſt procure to go &amp; view their ſub<g ref="char:EOLhyphen"/>ſtance and value it at the higheſt rate; and next teacheth them to break <hi>Christs</hi> command, and to ſwear for him; and thus having ſufficiently inſtructed them in wickedneſs, and made them ſeven<g ref="char:EOLhyphen"/>fold more the children of Hell then they were before, to the evil Magiſtrates they go, and there after ſwearing and for ſwearing he gets a judgement for treble dammage, and ſo having got a commiſſion to plunder, he then makes havock; and what ever he finds of outward ſubſtance alive or dead thats movable, he ſweeps away, not leaving either food to eate or cloathes to cover either old or young, and then caſts into priſon the bodies of ſuch as they had thus ſpoiled, and there cauſe them to be kept until they finiſhed their teſtimonies with their lives.</p>
+            <p>O! How many examples of this kind of <hi>lingring Martyrdome</hi> hath there been in ſeveral places; as may appear in the records of furterings for tythes in <hi>England?</hi>
+            </p>
+            <p>And theſe and ſuch like are the true characters of the <hi>falſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Prophets</hi> and Miniſters of <hi>Anti-chriſt,</hi> and ſuch is the miniſtry of theſe Nations at this day, who <hi>murther</hi> and <hi>martyr</hi> for their greedy bellies.</p>
+            <p>And thus the land is defiled with blood, yea the blood of the <hi>Innocent</hi> cries to the Lord for vengeance, againſt unrighteous Lawes, unjuſt and cruel Judges, and above all againſt the blood<g ref="char:EOLhyphen"/>ſucking hirelings, and their upholders, againſt whom the contro<g ref="char:EOLhyphen"/>verſie of the Lord is exceeding great, and when the meaſure of their iniquity is filled, and the ſufferings of his ſaints accompliſhed then ſhall the vials of his wrath, and the wine of his indignation be poured out without mixture, and they ſhall ſurely drink it, who have drunk up the blood of the innocent, and have had no pitty.</p>
+            <pb n="11" facs="tcp:61902:6"/>
+            <p>And foraſmuch as ſome of you have taſted of <hi>affliction</hi> under the late <hi>oppreſſing government,</hi> (and with other Noble and pub<g ref="char:EOLhyphen"/>lique ſpirited perſons in the Nation) have been made the foot<g ref="char:EOLhyphen"/>ſtool whereby <hi>ambition and uſurpation</hi> might enthrone it ſelſe; and arbytrary will and power kept you under bonds, while the plowers made long furrows upon your backs, becauſe of the teſti<g ref="char:EOLhyphen"/>mony you bore againſt the growing iniquities of thoſe evil times; and now that the Lord hath given you <hi>liberty,</hi> and put the <hi>power</hi> of doing good into your hands; Remember ye the <hi>afflictions</hi> of eve<g ref="char:EOLhyphen"/>ry <hi>Joſeph,</hi> and as feeling members of the miſeries of others (who for the exerciſe of a good conſcience towards God) have been left <hi>forelorne and fatherleſse</hi> in the Nations, forſaken of the Ma<g ref="char:EOLhyphen"/>giſtrates generally; all acts of <hi>Justice mercy and pity</hi> being deny<g ref="char:EOLhyphen"/>ed to many of them from men of all eſtates, even from him that Swaied the <hi>Scepter</hi> to him that held the plough, and they given up and expoſed as a prey to the luſt and ſpoil of any that would oppreſſe them) let your bowels be enlarged, relieve yee the oppreſſed, help the helpleſſe, Judge the cauſe of the <hi>fatherleſse,</hi> for herein you judge not for man, but for the Lord, who hath reſerved you to ſtand in the gap in ſuch a day as this is, and not to make it wider. And amongſt the flock (whereof Chriſt Jeſus is the tru: ſheepherd) of which you are to have regard in <hi>England,</hi> let not the tender Lambes, who (in re<g ref="char:EOLhyphen"/>gard of outward habitation) are ſcattered here and there in this Nation, be forgotten by you; but ſpeedily extend the power God hath put into your hands, to ſave them out of the mouthes of the devouring <hi>Wolves, the inſatiable hirelings,</hi> who are gaping ready to ſwallow up the heritage of the Lord; And thoſe who have been faithful to the intereſt of the Nations, and with their lives and all that was deare unto them, waded through hazards and hardſhips in times of difficulty, and danger for the promoting <hi>the good old cauſe,</hi> the advancement of <hi>Justice, Righteouſneſse and truth in the earth;</hi> have lately been inſulted and Tyrannized over by the greedy <hi>hirelings,</hi> who wait to make a prey upon us; And becauſe for conſcience ſake we cannot pay them Tythes, the <hi>hire<g ref="char:EOLhyphen"/>ling,</hi> in whoſe <hi>quarter</hi> any of us falls to be, ſeemes to rejoyce that he hath ſuch a <hi>prize</hi> in hand, and glories in the Law that gives him <hi>Treble damage,</hi> that by colour thereof he might (according to the example of his brethren in <hi>England</hi>) Sweep away all in a day, and inrich himſelfe with the ſpoil of the <hi>Innocent,</hi> O how he longes for harveſt, and boaſteth what he will do if <hi>Tythes</hi> be
+<pb n="12" facs="tcp:61902:7"/>
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> denyed him; <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> was the caſe of ſeveral of the ſervants of the Lord (who had been faithful to their country and genera<g ref="char:EOLhyphen"/>tion many yeares) when your authority revised, even ready to be devoured, our goods ſpoiled, our wives made widdowes, and our children fatherleſſe by long impriſonments and lingring <hi>martyr<g ref="char:EOLhyphen"/>dome</hi> (an cvil reward for our good ſervice) which ſeveral of our dear brethren in <hi>England</hi> have lately undergone, who never<g ref="char:EOLhyphen"/>theleſſe have finiſhed their courſe with joy, and through many tribulations have paſſed into everlaſting reſt; Although their wives and many innocent babes are left behind, ſurviving mo<g ref="char:EOLhyphen"/>numents of their opreſſors cruelties.</p>
+            <p>And that it purely is for <hi>conſcience ſake</hi> towards God we pay not tythes, you need no other evidence to convince you then the <hi>bloody characters</hi> wherein the truth hereof hath been ſo legibly written in theſe few years, by ſo many ſervants of the living God in ſeveral priſons in <hi>England</hi> whoſe teſtimonies were ſealed with their lives; beſides the ſufferings of hundreds more, (both here and there) who ſuffered joyfully the ſpoiling of their goods, knowing where they have a better and more enduring ſubſtance.</p>
+            <p>Wherefore if that gracious ſpirit of zeal towards God, of righ<g ref="char:EOLhyphen"/>teouſneſſe and Juſtice towards men, of love and meekneſſe to<g ref="char:EOLhyphen"/>wards tender conſciences, which formerly was manifeſt among you be not departed from you, then let it now appear and act for God, that truth and righteouſneſſe (the ſum and ſubſtance of all our hopes and expectations) may be eſtabliſhed in the earth, and oppreſſion, tyranny and Injuſtice (the cauſe of all our ſuffe<g ref="char:EOLhyphen"/>rings) be removed; that tender conſciences may be relieved, the kingdome of Jeſus Chriſt exalted; and, then generations yet unborn ſhall call you bleſſed.</p>
+            <p>But if a contrary ſpirit act and guide you, and you let ſlip this precious oppertunity, and ſuffer <hi>Sion</hi> ſtill to languiſh in the duſt, ſpreading out her hands and there be none will help her, the Lord will ſend deliverance another way, and innocent blood will be required of you, and your names be numbred among thoſe that the Lord hath overthrown before you,</p>
+            <closer>
+               <dateline>
+                  <hi>Written in</hi> Ireland <hi>the beginning of</hi> 
+                  <date>5th Moneth 1659.</date>
+               </dateline>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:61902:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
